@@ -9,7 +9,7 @@ app.use(express.json())
 
 //routes
 app.get("/", (req, res) => {
-    res.send("this is the home page")
+    res.send("this is the home page!!")
 })
 
 
